@@ -6,7 +6,7 @@ function paragraphSelector()
 }
 function lastImageSelector()
 {
-  var list =$('.pics');
+  var list =$('img:last');
   return list;
 }
 function ninjaBabySelector()
