@@ -19,5 +19,5 @@ function divSelector()
 }
 function firstListItem()
 {
-  var list = $('img:first');
+  var list = $('ul:first');
 }
