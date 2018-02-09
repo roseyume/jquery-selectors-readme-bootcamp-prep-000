@@ -11,7 +11,7 @@ function lastImageSelector()
 }
 function ninjaBabySelector()
 {
-  
+  return $('#baby-ninja');
 }
 function divSelector()
 {
@@ -19,5 +19,5 @@ function divSelector()
 }
 function firstListItem()
 {
-  
+  var list = $('img:first');
 }
